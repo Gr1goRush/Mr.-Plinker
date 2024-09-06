@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21657b3b7bb699b4c9a796e2e3246ad0, type: 3}
+  m_Name: BGSkeensData
+  m_EditorClassIdentifier: 
+  skeens:
+  - Name: 0
+    Sprite: {fileID: 21300000, guid: 956d86601811b134db3b0b9aaabd7d23, type: 3}
+  - Name: 1
+    Sprite: {fileID: 21300000, guid: 5b3602d3ac18921409f3c04711a33b7a, type: 3}
+  - Name: 2
+    Sprite: {fileID: 21300000, guid: ffbea6f585dd5f2478b09673bdfd308a, type: 3}
+  - Name: 3
+    Sprite: {fileID: 21300000, guid: 03a0c2ebbee8ddc41877b6eb9f62b985, type: 3}
